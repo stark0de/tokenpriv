@@ -1,5 +1,3 @@
-#TokenPriv
-
 This is a simple Python script to check if the privileges included in your access tokens can be used to perform privilege escalation.
 
 Usage:
