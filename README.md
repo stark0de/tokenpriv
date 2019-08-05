@@ -5,4 +5,4 @@ Usage:
 - Clone the repository, cd into tokenpriv and run pip install –r requirements.txt
 - Just do python3 tokenpriv.py
 
-Or execute in cmd the compiled version at /tokenpriv/bin/tokenpriv.exe
+Or execute in cmd the compiled version
